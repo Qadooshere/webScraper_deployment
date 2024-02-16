@@ -1,0 +1,4 @@
+chromedrivermanager==0.0.1
+requests==2.31.0
+selenium==4.17.2
+webdriver-manager==4.0.1
